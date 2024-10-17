@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this lab we are going to be setting up a home lab using Elastic SIEM and a Kali VM. We will forward data from the Kali VM to the SIEM using the Elastic Beats agent, generate security events on the Kali VM using Nmap, and query and analyze the logs in the SIEM using the Elastic web interface. We'll also create a dashboard to visualize security events and then create an alert to detect security events.<br />
+In this project, we will set up a Cowrie SSH honeypot to capture and analyze SSH-based intrusion attempts on a network. Utilizing Docker on a Kali Linux environment, Cowrie will be deployed to act both as a medium and high-interaction honeypot. This setup will emulate a UNIX system, meticulously logging SSH access attempts and interactions. By the project's conclusion, we aim to establish a robust honeypot system that will provide deeper insights into network security threats, enabling the observation of attacker behaviors and tactics in a controlled environment.<br />
 
 
 <h2>Languages and Utilities Used</h2>
