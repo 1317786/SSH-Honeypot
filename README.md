@@ -8,21 +8,21 @@ In this lab we are going to be setting up a home lab using Elastic SIEM and a Ka
 <h2>Languages and Utilities Used</h2>
 
 
-- <b>Oracle Virtual Box</b>
+- <b>SSH</b>
+- <b>Docker</b>
 
 <h2>Environments Used </h2>
 
-- <b>Elastic Cloud</b>
 - <b>Kali Linux</b> 
 
 <h2>Takeaways</h2>
 
-- <b>Elastic Stack SIEM Configuration and Management</b>: Successfully set up and configured Elastic Stack SIEM in a home lab environment. Demonstrated proficiency in deploying a Kali Linux VM, configuring Elastic agents for log collection, and forwarding data to the SIEM for effective security event monitoring.
+- <b>Honeypot Deployment and Operations</b>: Mastered the setup and management of the Cowrie honeypot within a Kali Linux environment on Oracle VirtualBox, enhancing skills in deploying and maintaining medium to high interaction honeypots to simulate UNIX systems and SSH/Telnet proxies.
 
 
-- <b>Security Event Simulation and Analysis</b>: Acquired hands-on experience in generating and analyzing security events using Nmap on Kali Linux. Proficient in querying Elastic SIEM to identify and investigate security incidents, enhancing skills in network security monitoring and threat detection.
+- <b>Attack Simulation and Network Security Proficiency</b>: Gained practical experience in simulating attack scenarios using the Cowrie honeypot, which improved understanding of attacker tactics and techniques. This experience has been instrumental in developing strategies to identify and respond to cybersecurity threats effectively.
 
-- <b>Visualization and Alerting in SIEM</b>: Developed a custom dashboard in Elastic SIEM to visualize security events, demonstrating skills in data interpretation and pattern recognition. Successfully created and tested alert rules for detecting specific security events, showing competency in proactive incident response and alert management.
+- <b>Technical Skills Enhancement in Docker and Virtualization</b>: Advanced technical skills by integrating Docker with the Cowrie honeypot deployment, demonstrating the ability to manage complex security setups using containerization and virtualization technologies for robust cybersecurity defense mechanisms.
 
 
 <h2>Program walk-through:</h2>
