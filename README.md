@@ -37,11 +37,11 @@ Running an nmap scan to detect the honeypot server, with open access being ident
 <img src="nmap test scan.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Log analysis: <br/>
+I then log in to the server as a root user and it easily allows me access, while it continues to display itself as an authentic looking SSH server: <br/>
 <img src="access into ssh server.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Custom query for nmap: <br/>
+Even running certain commands within the server you can see the contents placed within it and commands returning correct outputs, clearly this honeypot server was developed well enough to look like the real thing: <br/>
 <img src="fake server contents.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
