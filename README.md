@@ -28,12 +28,12 @@ In this project, we will set up a Cowrie SSH honeypot to capture and analyze SSH
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Connecting to the Elastic Beats agent in order to receive data from Kali VM: <br/>
+Initialization of the cowrie honeypot: <br/>
 <img src="honeypot initialization 1.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="honeypot initialization 2.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Generating security events using nmap for the SIEM to pick up on:  <br/>
+Running an nmap scan to detect the honeypot server, with open access being identified through port 2222:  <br/>
 <img src="nmap test scan.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
