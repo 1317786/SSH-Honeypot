@@ -48,7 +48,7 @@ Even running certain commands within the server you can see the contents placed 
 
 <br />
 <br />
-Dashboard containing security events:  <br/>
+While there is interaction going on within this server, the log for the honeypot picks up on all the activity that was done within the server, and stores it to be analyzed:  <br/>
 <img src="honeypot log.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
