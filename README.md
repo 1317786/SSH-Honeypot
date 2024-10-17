@@ -42,7 +42,7 @@ Log analysis: <br/>
 <br />
 <br />
 Custom query for nmap: <br/>
-<img src="Custom Query.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="fake server contents.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
