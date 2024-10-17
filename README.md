@@ -34,7 +34,7 @@ Connecting to the Elastic Beats agent in order to receive data from Kali VM: <br
 <br />
 <br />
 Generating security events using nmap for the SIEM to pick up on:  <br/>
-<img src="Generating Security Events on Kali.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="nmap test scan.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Log analysis: <br/>
