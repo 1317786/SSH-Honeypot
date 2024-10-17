@@ -38,7 +38,7 @@ Generating security events using nmap for the SIEM to pick up on:  <br/>
 <br />
 <br />
 Log analysis: <br/>
-<img src="Log Analysis.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="access into ssh server.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Custom query for nmap: <br/>
